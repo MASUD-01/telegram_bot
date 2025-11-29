@@ -15,3 +15,8 @@ source /c/Users/User/miniconda3/etc/profile.d/conda.sh
 pip install -r requirements.txt
 
 **\*\*** open ai py pi--realse versions
+
+skip_updates=True or False, False thakle bot kono reply skip korbe na, jodi eta kono karone offline hoy
+
+********\*\*********ei file aws e deploy korle live hobe**********\***********
+********\*\*********python anywherere e host kora jay**********\***********
