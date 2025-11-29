@@ -58,7 +58,7 @@ async def clear(message: types.Message):
         """
         help_command = """ Hi There, I am Telegram bot created by masud! Please follow these commands -
          
-        /start - to start the conversation and context """
+        /start - to start the conversation and context !"""
         await message.reply('Hi\nI am  tele bot created by masud. How can i assist u')
     
 if __name__== "__main__":
